@@ -14,8 +14,8 @@
         "geometry" : {
             "type" : "LineString",
             "coordinates": 
-                        [ 19.500000000000000,  41.416666669999998],
-                        [ 0.733333333000000,  40.783333329999998]},
+                        [19.50, 41.41],
+                        [0.73, 40.78]},
 
         "properties" : { "idRuta":  "R1", "pais_anilla": "Albania", "comarca_sg":  "SP43014",
                         "com_sgsa_n":  "MONTSIA (AMPOSTA)", "rotulo_R":  "Tarragona", "n_espe":  "Sterna sandvicensis"}
