@@ -1,24 +1,24 @@
 { 
 	"type" : "Feature Collection",
         "features" : [
-               { "type" : "Feature",
+          { "type" : "Feature",
 
            "geometry" :
            {
                "type" : "LineString",
-               "coordinates" : [[17.967000, 52.200000], [-5.917000, 43.550000]]
+               "coordinates" : [[8.393000, 49.882000], [-3.233000, 39.283000]]
             },
 
            "properties" :
            {
-           "idRuta": "R26838",
-           "idEspecie": "E39",
-           "idOrigen": "PL414",
-           "idComarca": "SP33024",
-           "NombreComarca": "GIJON",
-           "NombreEspecie": "Vanellus vanellus",
-           "NombreOrigen": "Koniński",
-           "PaisOrigen": "PL"
+           "idRuta": "R12272",
+           "idEspecie": "E14",
+           "idOrigen": "DE717",
+           "idComarca": "SP13082",
+           "NombreComarca": "TOMELLOSO",
+           "NombreEspecie": "Ciconia ciconia",
+           "NombreOrigen": "Groß-Gerau",
+           "PaisOrigen": "DE"
            }
 
         }
