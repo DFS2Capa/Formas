@@ -2,23 +2,23 @@
 	"type" : "Feature Collection",
         "features" : [
                { "type" : "Feature",
-	
+
            "geometry" :
            {
                "type" : "LineString",
-               "coordinates" : [[19.050000, 47.500000], [-5.983000, 37.400000]]
+               "coordinates" : [[17.967000, 52.200000], [-5.917000, 43.550000]]
             },
 
            "properties" :
            {
-           "idRuta": "R0",
-           "idEspecie": "E94",
-           "idOrigen": "HU110",
-           "idComarca": "SP41091",
-           "NombreComarca": "SEVILLA (DELEGACIÓN PROVINCIAL)",
-           "NombreEspecie": "Plegadis falcinellus",
-           "NombreOrigen": "Budapest",
-           "PaisOrigen": "HU"
+           "idRuta": "R26838",
+           "idEspecie": "E39",
+           "idOrigen": "PL414",
+           "idComarca": "SP33024",
+           "NombreComarca": "GIJON",
+           "NombreEspecie": "Vanellus vanellus",
+           "NombreOrigen": "Koniński",
+           "PaisOrigen": "PL"
            }
 
         }
